@@ -4,6 +4,9 @@ This is a simple repository used to follow the "Build Interactive Maps in Next.j
 
 Link: https://www.99darshan.com/posts/interactive-maps-using-nextjs-and-google-maps
 
+![image](https://github.com/lmac-1/google-map-search-nextjs/assets/64803272/0c1a93ab-bc34-4cfa-8079-dffab3e0c301)
+
+
 ## Packages
 
 - `@react-google-maps/api`: [Repo](https://github.com/JustFly1984/react-google-maps-api/)
